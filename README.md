@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Parth%20Biradar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%26%20Designer&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Parth%20Biradar&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Designer&descAlignY=51&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full-Stack+Developer+%7C+TypeScript+Expert;Building+Scalable+Web+Applications;Passionate+About+Clean+Code+%26+Design)](https://git.io/typing-svg)
 
@@ -198,11 +198,10 @@ Enhanced version of FloatChat with real-time messaging capabilities. Features a 
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parth-dev45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-dev45&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parth-dev45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-dev45&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-dev45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8">
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=parth-dev45&bg_color=0D1117&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-dev45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10&card_width=800" alt="Top Languages" />
 
 </div>
 
@@ -258,16 +257,6 @@ Available for:
 
 <br>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parth-dev45&theme=tokyo-night&hide_border=true&area=true)](https://github.com/parth-dev45)
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
@@ -284,6 +273,6 @@ Available for:
 
 Made with ❤️ by Parth Biradar
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 </div>
